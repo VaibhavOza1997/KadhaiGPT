@@ -1,0 +1,1416 @@
+{
+  "version": "1.0",
+  "ingredients": [
+    {
+      "english_name": "tomato",
+      "indian_regional_names": {
+        "hindi": "tamatar",
+        "gujarati": "tameta",
+        "marathi": "tomato",
+        "tamil": "thakkali",
+        "telugu": "tomato",
+        "kannada": "tomato",
+        "bengali": "tomato",
+        "punjabi": "tamatar"
+      },
+      "category": "vegetables",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "spinach",
+      "indian_regional_names": {
+        "hindi": "palak",
+        "gujarati": "palak",
+        "marathi": "palak",
+        "tamil": "palak keerai",
+        "telugu": "palakoora",
+        "kannada": "harive soppu",
+        "bengali": "palong shaak",
+        "punjabi": "palak"
+      },
+      "category": "vegetables",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "cauliflower",
+      "indian_regional_names": {
+        "hindi": "phool gobhi",
+        "gujarati": "phool gobhi",
+        "marathi": "phool kobi",
+        "tamil": "poo kopi",
+        "telugu": "cauliflower",
+        "kannada": "hookosu",
+        "bengali": "phulkopi",
+        "punjabi": "phool gobhi"
+      },
+      "category": "vegetables",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "cabbage",
+      "indian_regional_names": {
+        "hindi": "patta gobhi",
+        "gujarati": "kobij",
+        "marathi": "kobi",
+        "tamil": "muttaikose",
+        "telugu": "cabbage",
+        "kannada": "ele kosu",
+        "bengali": "bandha kopi",
+        "punjabi": "patta gobhi"
+      },
+      "category": "vegetables",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "peas",
+      "indian_regional_names": {
+        "hindi": "matar",
+        "gujarati": "vatana",
+        "marathi": "vatane",
+        "tamil": "pattani",
+        "telugu": "batani",
+        "kannada": "batani",
+        "bengali": "matar",
+        "punjabi": "matar"
+      },
+      "category": "vegetables",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "eggplant",
+      "indian_regional_names": {
+        "hindi": "baingan",
+        "gujarati": "ringan",
+        "marathi": "vangi",
+        "tamil": "kathirikai",
+        "telugu": "vankaya",
+        "kannada": "badanekai",
+        "bengali": "begun",
+        "punjabi": "baingan"
+      },
+      "category": "vegetables",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "bell pepper",
+      "indian_regional_names": {
+        "hindi": "shimla mirch",
+        "gujarati": "shimla marchu",
+        "marathi": "dhobli mirchi",
+        "tamil": "kudai milagai",
+        "telugu": "dabbamirapa",
+        "kannada": "donne menasina kai",
+        "bengali": "capsicum",
+        "punjabi": "shimla mirch"
+      },
+      "category": "vegetables",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "okra",
+      "indian_regional_names": {
+        "hindi": "bhindi",
+        "gujarati": "bhinda",
+        "marathi": "bhendi",
+        "tamil": "vendai",
+        "telugu": "bendakaaya",
+        "kannada": "bendekai",
+        "bengali": "dharosh",
+        "punjabi": "bhindi"
+      },
+      "category": "vegetables",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "bitter gourd",
+      "indian_regional_names": {
+        "hindi": "karela",
+        "gujarati": "karela",
+        "marathi": "karle",
+        "tamil": "pavakkai",
+        "telugu": "kakara kaaya",
+        "kannada": "hagalkai",
+        "bengali": "uchche",
+        "punjabi": "karela"
+      },
+      "category": "vegetables",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "bottle gourd",
+      "indian_regional_names": {
+        "hindi": "lauki",
+        "gujarati": "dudhi",
+        "marathi": "dudhi",
+        "tamil": "sorakkai",
+        "telugu": "anapakaya",
+        "kannada": "sorekai",
+        "bengali": "lau",
+        "punjabi": "ghia"
+      },
+      "category": "vegetables",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "ridge gourd",
+      "indian_regional_names": {
+        "hindi": "turai",
+        "gujarati": "turiya",
+        "marathi": "dodka",
+        "tamil": "peerkangai",
+        "telugu": "beerakaya",
+        "kannada": "heerekai",
+        "bengali": "jhinge",
+        "punjabi": "tori"
+      },
+      "category": "vegetables",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "green beans",
+      "indian_regional_names": {
+        "hindi": "farasbi",
+        "gujarati": "fansi",
+        "marathi": "fansi",
+        "tamil": "beans",
+        "telugu": "beans",
+        "kannada": "huralikayi",
+        "bengali": "seem",
+        "punjabi": "beans"
+      },
+      "category": "vegetables",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "corn",
+      "indian_regional_names": {
+        "hindi": "makka",
+        "gujarati": "makkai",
+        "marathi": "makka",
+        "tamil": "makka cholam",
+        "telugu": "mokka jonnalu",
+        "kannada": "mekke jola",
+        "bengali": "bhutte",
+        "punjabi": "makki"
+      },
+      "category": "vegetables",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "green chili",
+      "indian_regional_names": {
+        "hindi": "hari mirch",
+        "gujarati": "lilu marchu",
+        "marathi": "hirvi mirchi",
+        "tamil": "pacha milagai",
+        "telugu": "pachi mirapakaya",
+        "kannada": "hasiru menasina kai",
+        "bengali": "kacha lanka",
+        "punjabi": "hari mirch"
+      },
+      "category": "vegetables",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "fresh coriander",
+      "indian_regional_names": {
+        "hindi": "hara dhaniya",
+        "gujarati": "kothamiri",
+        "marathi": "kothimbir",
+        "tamil": "kothamalli",
+        "telugu": "kothimeera",
+        "kannada": "kottambari soppu",
+        "bengali": "dhonepata",
+        "punjabi": "hara dhaniya"
+      },
+      "category": "vegetables",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "curry leaves",
+      "indian_regional_names": {
+        "hindi": "kadi patta",
+        "gujarati": "limdo",
+        "marathi": "kadhipatta",
+        "tamil": "karuveppilai",
+        "telugu": "karivepaku",
+        "kannada": "karibevu",
+        "bengali": "curry pata",
+        "punjabi": "kadi patta"
+      },
+      "category": "vegetables",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "fresh coconut",
+      "indian_regional_names": {
+        "hindi": "nariyal",
+        "gujarati": "naadu",
+        "marathi": "naral",
+        "tamil": "thengai",
+        "telugu": "kobbari",
+        "kannada": "tenginakai",
+        "bengali": "narkel",
+        "punjabi": "nariyal"
+      },
+      "category": "vegetables",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "onion",
+      "indian_regional_names": {
+        "hindi": "pyaaz",
+        "gujarati": "dungri",
+        "marathi": "kanda",
+        "tamil": "vengayam",
+        "telugu": "ullipayalu",
+        "kannada": "eerulli",
+        "bengali": "peyaj",
+        "punjabi": "pyaaz"
+      },
+      "category": "vegetables",
+      "is_jain_safe": false,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "garlic",
+      "indian_regional_names": {
+        "hindi": "lahsun",
+        "gujarati": "lasan",
+        "marathi": "lasun",
+        "tamil": "poondu",
+        "telugu": "vellulli",
+        "kannada": "bellulli",
+        "bengali": "roshun",
+        "punjabi": "lahsun"
+      },
+      "category": "vegetables",
+      "is_jain_safe": false,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "potato",
+      "indian_regional_names": {
+        "hindi": "aloo",
+        "gujarati": "batata",
+        "marathi": "batata",
+        "tamil": "urulai kizhangu",
+        "telugu": "bangaladumpa",
+        "kannada": "aaloogadde",
+        "bengali": "aalu",
+        "punjabi": "aloo"
+      },
+      "category": "vegetables",
+      "is_jain_safe": false,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "carrot",
+      "indian_regional_names": {
+        "hindi": "gajar",
+        "gujarati": "gajar",
+        "marathi": "gajar",
+        "tamil": "carrot",
+        "telugu": "carrot",
+        "kannada": "carrot",
+        "bengali": "gajar",
+        "punjabi": "gajar"
+      },
+      "category": "vegetables",
+      "is_jain_safe": false,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "beetroot",
+      "indian_regional_names": {
+        "hindi": "chukandar",
+        "gujarati": "beet",
+        "marathi": "beet",
+        "tamil": "beetroot",
+        "telugu": "beetroot",
+        "kannada": "beetroot",
+        "bengali": "beet",
+        "punjabi": "chukandar"
+      },
+      "category": "vegetables",
+      "is_jain_safe": false,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "radish",
+      "indian_regional_names": {
+        "hindi": "mooli",
+        "gujarati": "mulo",
+        "marathi": "mula",
+        "tamil": "mullangi",
+        "telugu": "mullangi",
+        "kannada": "mullangi",
+        "bengali": "mula",
+        "punjabi": "mooli"
+      },
+      "category": "vegetables",
+      "is_jain_safe": false,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "turnip",
+      "indian_regional_names": {
+        "hindi": "shalgam",
+        "gujarati": "shalgam",
+        "marathi": "salgam",
+        "tamil": "turnip",
+        "telugu": "turnip",
+        "kannada": "turnip",
+        "bengali": "shalgam",
+        "punjabi": "shalgam"
+      },
+      "category": "vegetables",
+      "is_jain_safe": false,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "ginger",
+      "indian_regional_names": {
+        "hindi": "adrak",
+        "gujarati": "aadu",
+        "marathi": "aale",
+        "tamil": "inji",
+        "telugu": "allam",
+        "kannada": "shunti",
+        "bengali": "aada",
+        "punjabi": "adrak"
+      },
+      "category": "vegetables",
+      "is_jain_safe": false,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "lotus stem",
+      "indian_regional_names": {
+        "hindi": "kamal kakdi",
+        "gujarati": "kamal kakdi",
+        "marathi": "kamal kakdi",
+        "tamil": "thamarai thandu",
+        "telugu": "tamara thamara",
+        "kannada": "tavare kaayu",
+        "bengali": "shaaluker daanta",
+        "punjabi": "kamal kakdi"
+      },
+      "category": "vegetables",
+      "is_jain_safe": false,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "mushroom",
+      "indian_regional_names": {
+        "hindi": "khumbi",
+        "gujarati": "bhoyringi",
+        "marathi": "aali",
+        "tamil": "kaalan",
+        "telugu": "puttagodugu",
+        "kannada": "anabe",
+        "bengali": "mushroom",
+        "punjabi": "khumbi"
+      },
+      "category": "vegetables",
+      "is_jain_safe": false,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "milk",
+      "indian_regional_names": {
+        "hindi": "doodh",
+        "gujarati": "doodh",
+        "marathi": "doodh",
+        "tamil": "paal",
+        "telugu": "paalu",
+        "kannada": "haalu",
+        "bengali": "doodh",
+        "punjabi": "doodh"
+      },
+      "category": "dairy",
+      "is_jain_safe": true,
+      "is_vegan": false,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "yogurt",
+      "indian_regional_names": {
+        "hindi": "dahi",
+        "gujarati": "dahi",
+        "marathi": "dahi",
+        "tamil": "thayir",
+        "telugu": "perugu",
+        "kannada": "mosaru",
+        "bengali": "doi",
+        "punjabi": "dahi"
+      },
+      "category": "dairy",
+      "is_jain_safe": true,
+      "is_vegan": false,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "ghee",
+      "indian_regional_names": {
+        "hindi": "ghee",
+        "gujarati": "ghee",
+        "marathi": "toop",
+        "tamil": "nei",
+        "telugu": "neyyi",
+        "kannada": "tuppa",
+        "bengali": "ghee",
+        "punjabi": "ghio"
+      },
+      "category": "dairy",
+      "is_jain_safe": true,
+      "is_vegan": false,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "paneer",
+      "indian_regional_names": {
+        "hindi": "paneer",
+        "gujarati": "paneer",
+        "marathi": "paneer",
+        "tamil": "paneer",
+        "telugu": "paneer",
+        "kannada": "paneer",
+        "bengali": "chhana",
+        "punjabi": "paneer"
+      },
+      "category": "dairy",
+      "is_jain_safe": true,
+      "is_vegan": false,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "butter",
+      "indian_regional_names": {
+        "hindi": "makhan",
+        "gujarati": "makhan",
+        "marathi": "loni",
+        "tamil": "vennai",
+        "telugu": "venna",
+        "kannada": "benne",
+        "bengali": "makkhan",
+        "punjabi": "makhan"
+      },
+      "category": "dairy",
+      "is_jain_safe": true,
+      "is_vegan": false,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "cream",
+      "indian_regional_names": {
+        "hindi": "malai",
+        "gujarati": "malai",
+        "marathi": "saay",
+        "tamil": "cream",
+        "telugu": "cream",
+        "kannada": "cream",
+        "bengali": "malai",
+        "punjabi": "malai"
+      },
+      "category": "dairy",
+      "is_jain_safe": true,
+      "is_vegan": false,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "turmeric",
+      "indian_regional_names": {
+        "hindi": "haldi",
+        "gujarati": "haldi",
+        "marathi": "halad",
+        "tamil": "manjal",
+        "telugu": "pasupu",
+        "kannada": "arishina",
+        "bengali": "holud",
+        "punjabi": "haldi"
+      },
+      "category": "spices",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "cumin seeds",
+      "indian_regional_names": {
+        "hindi": "jeera",
+        "gujarati": "jeeru",
+        "marathi": "jeere",
+        "tamil": "jeeragam",
+        "telugu": "jeelakarra",
+        "kannada": "jeerige",
+        "bengali": "jeera",
+        "punjabi": "jeera"
+      },
+      "category": "spices",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "coriander powder",
+      "indian_regional_names": {
+        "hindi": "dhaniya powder",
+        "gujarati": "dhana powder",
+        "marathi": "dhane powder",
+        "tamil": "kothamalli thool",
+        "telugu": "dhaniyalu powder",
+        "kannada": "kottambari hittu",
+        "bengali": "dhone powder",
+        "punjabi": "dhaniya powder"
+      },
+      "category": "spices",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "red chili powder",
+      "indian_regional_names": {
+        "hindi": "laal mirch powder",
+        "gujarati": "laal marcha powder",
+        "marathi": "laal mirchi powder",
+        "tamil": "milagai thool",
+        "telugu": "endu mirapa powder",
+        "kannada": "kempu menasu powder",
+        "bengali": "laal lanka powder",
+        "punjabi": "laal mirch powder"
+      },
+      "category": "spices",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "garam masala",
+      "indian_regional_names": {
+        "hindi": "garam masala",
+        "gujarati": "garam masalo",
+        "marathi": "garam masala",
+        "tamil": "garam masala",
+        "telugu": "garam masala",
+        "kannada": "garam masala",
+        "bengali": "garam masala",
+        "punjabi": "garam masala"
+      },
+      "category": "spices",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "mustard seeds",
+      "indian_regional_names": {
+        "hindi": "rai",
+        "gujarati": "rai",
+        "marathi": "mohri",
+        "tamil": "kadugu",
+        "telugu": "aavalu",
+        "kannada": "saasive",
+        "bengali": "shorshe",
+        "punjabi": "sarson"
+      },
+      "category": "spices",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "fenugreek seeds",
+      "indian_regional_names": {
+        "hindi": "methi dana",
+        "gujarati": "methi",
+        "marathi": "methi",
+        "tamil": "vendhayam",
+        "telugu": "menthulu",
+        "kannada": "menthya",
+        "bengali": "methi",
+        "punjabi": "methi dana"
+      },
+      "category": "spices",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "asafoetida",
+      "indian_regional_names": {
+        "hindi": "hing",
+        "gujarati": "hing",
+        "marathi": "hing",
+        "tamil": "perungayam",
+        "telugu": "inguva",
+        "kannada": "ingu",
+        "bengali": "hing",
+        "punjabi": "hing"
+      },
+      "category": "spices",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "cardamom",
+      "indian_regional_names": {
+        "hindi": "elaichi",
+        "gujarati": "elchi",
+        "marathi": "velchi",
+        "tamil": "elakkai",
+        "telugu": "elakulu",
+        "kannada": "elakki",
+        "bengali": "elach",
+        "punjabi": "elaichi"
+      },
+      "category": "spices",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "cloves",
+      "indian_regional_names": {
+        "hindi": "laung",
+        "gujarati": "lavang",
+        "marathi": "lavang",
+        "tamil": "kirambu",
+        "telugu": "lavangalu",
+        "kannada": "lavanga",
+        "bengali": "long",
+        "punjabi": "laung"
+      },
+      "category": "spices",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "cinnamon",
+      "indian_regional_names": {
+        "hindi": "dalchini",
+        "gujarati": "taj",
+        "marathi": "dalchini",
+        "tamil": "pattai",
+        "telugu": "dalchina patta",
+        "kannada": "chakke",
+        "bengali": "daruchini",
+        "punjabi": "dalchini"
+      },
+      "category": "spices",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "bay leaf",
+      "indian_regional_names": {
+        "hindi": "tej patta",
+        "gujarati": "tej patta",
+        "marathi": "tamal patra",
+        "tamil": "brinji ilai",
+        "telugu": "masaala aaku",
+        "kannada": "biryani ele",
+        "bengali": "tej pata",
+        "punjabi": "tej patta"
+      },
+      "category": "spices",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "black pepper",
+      "indian_regional_names": {
+        "hindi": "kali mirch",
+        "gujarati": "mari",
+        "marathi": "miri",
+        "tamil": "milagu",
+        "telugu": "miriyalu",
+        "kannada": "kari menasu",
+        "bengali": "gol morich",
+        "punjabi": "kali mirch"
+      },
+      "category": "spices",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "dried red chili",
+      "indian_regional_names": {
+        "hindi": "sukhi laal mirch",
+        "gujarati": "sukhi laal marcha",
+        "marathi": "sukhi laal mirchi",
+        "tamil": "vathal milagai",
+        "telugu": "endu mirapakaya",
+        "kannada": "ona kempu menasina kai",
+        "bengali": "shukno laal lanka",
+        "punjabi": "sukhi laal mirch"
+      },
+      "category": "spices",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "fennel seeds",
+      "indian_regional_names": {
+        "hindi": "saunf",
+        "gujarati": "variyali",
+        "marathi": "badishep",
+        "tamil": "sombu",
+        "telugu": "sopu",
+        "kannada": "sounpu",
+        "bengali": "mouri",
+        "punjabi": "saunf"
+      },
+      "category": "spices",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "carom seeds",
+      "indian_regional_names": {
+        "hindi": "ajwain",
+        "gujarati": "ajmo",
+        "marathi": "owa",
+        "tamil": "omam",
+        "telugu": "vaamu",
+        "kannada": "oma",
+        "bengali": "jowan",
+        "punjabi": "ajwain"
+      },
+      "category": "spices",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "dry mango powder",
+      "indian_regional_names": {
+        "hindi": "amchur",
+        "gujarati": "amchur",
+        "marathi": "amchur",
+        "tamil": "manga podi",
+        "telugu": "mamidikaya podi",
+        "kannada": "maavina pudi",
+        "bengali": "amchur",
+        "punjabi": "amchur"
+      },
+      "category": "spices",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "red lentils",
+      "indian_regional_names": {
+        "hindi": "masoor dal",
+        "gujarati": "masur dal",
+        "marathi": "masur dal",
+        "tamil": "mysore paruppu",
+        "telugu": "misur pappu",
+        "kannada": "masoor bele",
+        "bengali": "masur dal",
+        "punjabi": "masoor dal"
+      },
+      "category": "lentils and legumes",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "split pigeon peas",
+      "indian_regional_names": {
+        "hindi": "toor dal",
+        "gujarati": "toor dal",
+        "marathi": "toor dal",
+        "tamil": "tuvaram paruppu",
+        "telugu": "kandhi pappu",
+        "kannada": "togari bele",
+        "bengali": "arhar dal",
+        "punjabi": "toor dal"
+      },
+      "category": "lentils and legumes",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "split chickpeas",
+      "indian_regional_names": {
+        "hindi": "chana dal",
+        "gujarati": "chana dal",
+        "marathi": "chana dal",
+        "tamil": "kadalai paruppu",
+        "telugu": "senaga pappu",
+        "kannada": "kadale bele",
+        "bengali": "chholar dal",
+        "punjabi": "chana dal"
+      },
+      "category": "lentils and legumes",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "split black lentils",
+      "indian_regional_names": {
+        "hindi": "urad dal",
+        "gujarati": "urad dal",
+        "marathi": "urad dal",
+        "tamil": "ulundu paruppu",
+        "telugu": "minumulu pappu",
+        "kannada": "uddina bele",
+        "bengali": "mashkalai dal",
+        "punjabi": "maan di dal"
+      },
+      "category": "lentils and legumes",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "split green moong",
+      "indian_regional_names": {
+        "hindi": "moong dal",
+        "gujarati": "mag ni dal",
+        "marathi": "moong dal",
+        "tamil": "payatham paruppu",
+        "telugu": "pesara pappu",
+        "kannada": "hesaru bele",
+        "bengali": "moong dal",
+        "punjabi": "moong dal"
+      },
+      "category": "lentils and legumes",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "whole chickpeas",
+      "indian_regional_names": {
+        "hindi": "kabuli chana",
+        "gujarati": "chana",
+        "marathi": "chane",
+        "tamil": "kondakadalai",
+        "telugu": "senagalu",
+        "kannada": "kadle",
+        "bengali": "chhola",
+        "punjabi": "chhole"
+      },
+      "category": "lentils and legumes",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "kidney beans",
+      "indian_regional_names": {
+        "hindi": "rajma",
+        "gujarati": "rajma",
+        "marathi": "rajma",
+        "tamil": "rajma",
+        "telugu": "rajma",
+        "kannada": "rajma",
+        "bengali": "rajma",
+        "punjabi": "rajma"
+      },
+      "category": "lentils and legumes",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "black-eyed peas",
+      "indian_regional_names": {
+        "hindi": "lobia",
+        "gujarati": "chola",
+        "marathi": "chawli",
+        "tamil": "karamani",
+        "telugu": "alasandalu",
+        "kannada": "alasande",
+        "bengali": "borboti",
+        "punjabi": "raungi"
+      },
+      "category": "lentils and legumes",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "whole green moong",
+      "indian_regional_names": {
+        "hindi": "sabut moong",
+        "gujarati": "sabut mag",
+        "marathi": "sabut moong",
+        "tamil": "pachai payaru",
+        "telugu": "pesalu",
+        "kannada": "hesaru kalu",
+        "bengali": "shobuj moong",
+        "punjabi": "sabut moong"
+      },
+      "category": "lentils and legumes",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "black chickpeas",
+      "indian_regional_names": {
+        "hindi": "kala chana",
+        "gujarati": "kala chana",
+        "marathi": "kala chana",
+        "tamil": "konda kadalai",
+        "telugu": "nalla senagalu",
+        "kannada": "kari kadle",
+        "bengali": "kala chana",
+        "punjabi": "kala chana"
+      },
+      "category": "lentils and legumes",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "basmati rice",
+      "indian_regional_names": {
+        "hindi": "basmati chawal",
+        "gujarati": "basmati chaval",
+        "marathi": "basmati taandool",
+        "tamil": "basmati arisi",
+        "telugu": "basmati biyyam",
+        "kannada": "basmati akki",
+        "bengali": "basmati chal",
+        "punjabi": "basmati chawal"
+      },
+      "category": "grains",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "whole wheat flour",
+      "indian_regional_names": {
+        "hindi": "gehun ka atta",
+        "gujarati": "ghau no lot",
+        "marathi": "gahu pith",
+        "tamil": "godhumai maavu",
+        "telugu": "godhuma pindi",
+        "kannada": "godhi hittu",
+        "bengali": "ata",
+        "punjabi": "gehun da atta"
+      },
+      "category": "grains",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "chickpea flour",
+      "indian_regional_names": {
+        "hindi": "besan",
+        "gujarati": "chana no lot",
+        "marathi": "besan",
+        "tamil": "kadalai maavu",
+        "telugu": "senaga pindi",
+        "kannada": "kadale hittu",
+        "bengali": "besan",
+        "punjabi": "besan"
+      },
+      "category": "grains",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "semolina",
+      "indian_regional_names": {
+        "hindi": "sooji",
+        "gujarati": "rava",
+        "marathi": "rawa",
+        "tamil": "rava",
+        "telugu": "rava",
+        "kannada": "rave",
+        "bengali": "suji",
+        "punjabi": "sooji"
+      },
+      "category": "grains",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "flattened rice",
+      "indian_regional_names": {
+        "hindi": "poha",
+        "gujarati": "pauva",
+        "marathi": "pohe",
+        "tamil": "aval",
+        "telugu": "atukulu",
+        "kannada": "avalakki",
+        "bengali": "chire",
+        "punjabi": "chiura"
+      },
+      "category": "grains",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "vermicelli",
+      "indian_regional_names": {
+        "hindi": "seviyan",
+        "gujarati": "seviyan",
+        "marathi": "shevaya",
+        "tamil": "semiya",
+        "telugu": "semiya",
+        "kannada": "semige",
+        "bengali": "semai",
+        "punjabi": "seviyan"
+      },
+      "category": "grains",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "pearl millet flour",
+      "indian_regional_names": {
+        "hindi": "bajra atta",
+        "gujarati": "bajri no lot",
+        "marathi": "bajri pith",
+        "tamil": "kambu maavu",
+        "telugu": "sajja pindi",
+        "kannada": "sajje hittu",
+        "bengali": "bajra atta",
+        "punjabi": "bajre da atta"
+      },
+      "category": "grains",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "tofu",
+      "indian_regional_names": {
+        "hindi": "tofu",
+        "gujarati": "tofu",
+        "marathi": "tofu",
+        "tamil": "tofu",
+        "telugu": "tofu",
+        "kannada": "tofu",
+        "bengali": "tofu",
+        "punjabi": "tofu"
+      },
+      "category": "proteins",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "eggs",
+      "indian_regional_names": {
+        "hindi": "anda",
+        "gujarati": "inda",
+        "marathi": "anda",
+        "tamil": "muttai",
+        "telugu": "guddu",
+        "kannada": "motte",
+        "bengali": "dim",
+        "punjabi": "anda"
+      },
+      "category": "proteins",
+      "is_jain_safe": false,
+      "is_vegan": false,
+      "is_vegetarian": false
+    },
+    {
+      "english_name": "chicken",
+      "indian_regional_names": {
+        "hindi": "murgh",
+        "gujarati": "murgi",
+        "marathi": "kombdi",
+        "tamil": "kozhi",
+        "telugu": "kodi",
+        "kannada": "koli",
+        "bengali": "murgi",
+        "punjabi": "murgh"
+      },
+      "category": "proteins",
+      "is_jain_safe": false,
+      "is_vegan": false,
+      "is_vegetarian": false
+    },
+    {
+      "english_name": "fish",
+      "indian_regional_names": {
+        "hindi": "machli",
+        "gujarati": "machhi",
+        "marathi": "maasa",
+        "tamil": "meen",
+        "telugu": "chepa",
+        "kannada": "meenu",
+        "bengali": "maach",
+        "punjabi": "machhi"
+      },
+      "category": "proteins",
+      "is_jain_safe": false,
+      "is_vegan": false,
+      "is_vegetarian": false
+    },
+    {
+      "english_name": "mutton",
+      "indian_regional_names": {
+        "hindi": "gosht",
+        "gujarati": "mans",
+        "marathi": "mutton",
+        "tamil": "aatu iraichu",
+        "telugu": "meka maamsa",
+        "kannada": "kuri maamsa",
+        "bengali": "mangsho",
+        "punjabi": "gosht"
+      },
+      "category": "proteins",
+      "is_jain_safe": false,
+      "is_vegan": false,
+      "is_vegetarian": false
+    },
+    {
+      "english_name": "prawns",
+      "indian_regional_names": {
+        "hindi": "jhinga",
+        "gujarati": "jhinga",
+        "marathi": "kolambi",
+        "tamil": "eeraal",
+        "telugu": "royyalu",
+        "kannada": "seegarni",
+        "bengali": "chingri",
+        "punjabi": "jhinga"
+      },
+      "category": "proteins",
+      "is_jain_safe": false,
+      "is_vegan": false,
+      "is_vegetarian": false
+    },
+    {
+      "english_name": "vegetable oil",
+      "indian_regional_names": {
+        "hindi": "tel",
+        "gujarati": "tel",
+        "marathi": "tel",
+        "tamil": "ennai",
+        "telugu": "nune",
+        "kannada": "enne",
+        "bengali": "tel",
+        "punjabi": "tel"
+      },
+      "category": "condiments",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "mustard oil",
+      "indian_regional_names": {
+        "hindi": "sarson ka tel",
+        "gujarati": "rai nu tel",
+        "marathi": "mohri tel",
+        "tamil": "kadugu ennai",
+        "telugu": "aavala nune",
+        "kannada": "saasive enne",
+        "bengali": "shorsher tel",
+        "punjabi": "sarson da tel"
+      },
+      "category": "condiments",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "coconut oil",
+      "indian_regional_names": {
+        "hindi": "nariyal ka tel",
+        "gujarati": "nariyal nu tel",
+        "marathi": "naral tel",
+        "tamil": "thengai ennai",
+        "telugu": "kobbari nune",
+        "kannada": "tenginakai enne",
+        "bengali": "narkel tel",
+        "punjabi": "nariyal da tel"
+      },
+      "category": "condiments",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "salt",
+      "indian_regional_names": {
+        "hindi": "namak",
+        "gujarati": "namak",
+        "marathi": "meeth",
+        "tamil": "uppu",
+        "telugu": "uppu",
+        "kannada": "uppu",
+        "bengali": "noon",
+        "punjabi": "namak"
+      },
+      "category": "condiments",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "sugar",
+      "indian_regional_names": {
+        "hindi": "cheeni",
+        "gujarati": "khand",
+        "marathi": "saakhar",
+        "tamil": "sakkarai",
+        "telugu": "panchadara",
+        "kannada": "sakkare",
+        "bengali": "chini",
+        "punjabi": "cheeni"
+      },
+      "category": "condiments",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "tamarind",
+      "indian_regional_names": {
+        "hindi": "imli",
+        "gujarati": "ambli",
+        "marathi": "chinch",
+        "tamil": "puli",
+        "telugu": "chintapandu",
+        "kannada": "hunase",
+        "bengali": "tetul",
+        "punjabi": "imli"
+      },
+      "category": "condiments",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "lemon",
+      "indian_regional_names": {
+        "hindi": "nimbu",
+        "gujarati": "limbu",
+        "marathi": "limbu",
+        "tamil": "elumichai",
+        "telugu": "nimmakaya",
+        "kannada": "nimbe hannu",
+        "bengali": "lebu",
+        "punjabi": "nimbu"
+      },
+      "category": "condiments",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "coconut milk",
+      "indian_regional_names": {
+        "hindi": "nariyal ka doodh",
+        "gujarati": "naadu nu doodh",
+        "marathi": "naral doodh",
+        "tamil": "thengai paal",
+        "telugu": "kobbari palu",
+        "kannada": "tenginakai haalu",
+        "bengali": "narkel doodh",
+        "punjabi": "nariyal da doodh"
+      },
+      "category": "condiments",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "jaggery",
+      "indian_regional_names": {
+        "hindi": "gud",
+        "gujarati": "gol",
+        "marathi": "gul",
+        "tamil": "vellam",
+        "telugu": "bellam",
+        "kannada": "bella",
+        "bengali": "gur",
+        "punjabi": "gud"
+      },
+      "category": "condiments",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    },
+    {
+      "english_name": "vinegar",
+      "indian_regional_names": {
+        "hindi": "sirka",
+        "gujarati": "sirko",
+        "marathi": "aamlam",
+        "tamil": "kaadi",
+        "telugu": "vinegar",
+        "kannada": "vinegar",
+        "bengali": "sirka",
+        "punjabi": "sirka"
+      },
+      "category": "condiments",
+      "is_jain_safe": true,
+      "is_vegan": true,
+      "is_vegetarian": true
+    }
+  ]
+}
